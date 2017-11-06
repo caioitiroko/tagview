@@ -1,4 +1,4 @@
-# tagview
+# TagChatter
 Referente ao desario TagChatter da TagView (https://github.com/tagview/tagchatter)
 
 # Requisitos
