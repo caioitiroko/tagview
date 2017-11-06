@@ -1,5 +1,5 @@
 # TagChatter
-Referente ao desario TagChatter da TagView (https://github.com/tagview/tagchatter)
+Referente ao desafio TagChatter da TagView (https://github.com/tagview/tagchatter)
 
 # Requisitos
 * Wamp Server;
